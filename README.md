@@ -21,9 +21,6 @@
   <a href="mailto:contatodias.danilo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://drive.google.com/file/d/1SWD6OY9Bx7J9TGPzzfXpsjP63ND9MWVZ/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Resume">
-  </a>
 </p>
 
 ---
